@@ -1,6 +1,6 @@
 # fasta2pansn
 
-This repository was created to contain the code used in my answer to the question ["Go file reading, modifing and writting to a new file"][question] asked on Stackoverflow.
+This repository was created to contain the code used in [my answer][answer] to the question ["Go file reading, modifing and writting to a new file"][question] asked on Stackoverflow.
 
 > ***Note***
 >
@@ -27,3 +27,4 @@ Usage of ./fasta2pansn:
 ```
 
 [question]: https://stackoverflow.com/questions/78058903/go-file-reading-modifing-and-writting-to-a-new-file
+[answer]: https://stackoverflow.com/a/78059932/1296707
